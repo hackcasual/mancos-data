@@ -13,6 +13,18 @@
    "bytes": 6590884
   },
   {
+   "id": "factorio_2.0_Pyanodons_Alien_Life",
+   "name": "Factorio 2.0 Pyanodons Alien Life",
+   "file": "bundles/factorio_2.0_Pyanodons_Alien_Life.yafcbundle",
+   "bytes": 14903030
+  },
+  {
+   "id": "factorio_2.0_Pyanodons_Alien_Life_Hard_Mode",
+   "name": "Factorio 2.0 Pyanodons Alien Life Hard Mode",
+   "file": "bundles/factorio_2.0_Pyanodons_Alien_Life_Hard_Mode.yafcbundle",
+   "bytes": 14783482
+  },
+  {
    "id": "factorio_2.1",
    "name": "Factorio 2.1",
    "file": "bundles/factorio_2.1.yafcbundle",
@@ -23,12 +35,6 @@
    "name": "Factorio 2.1 Spaceage Quality",
    "file": "bundles/factorio_2.1_SpaceAge_Quality.yafcbundle",
    "bytes": 7776955
-  },
-  {
-   "id": "pyanodon",
-   "name": "Pyanodon",
-   "file": "bundles/pyanodon.yafcbundle",
-   "bytes": 16564121
   }
  ]
 }
