@@ -1,46 +1,40 @@
 {
  "packs": [
   {
-   "id": "factorio_2.0_Krastorio_SpaceAge_Quality",
-   "name": "Factorio 2.0 Krastorio Spaceage Quality",
-   "file": "bundles/factorio_2.0_Krastorio_SpaceAge_Quality.yafcbundle",
-   "bytes": 9075336
+   "id": "factorio_2.0.Pyanodons",
+   "name": "Factorio 2.0.Pyanodons",
+   "file": "bundles/factorio_2.0.Pyanodons.yafcbundle",
+   "bytes": 14887159
   },
   {
-   "id": "factorio_2.0_Nullius",
-   "name": "Factorio 2.0 Nullius",
-   "file": "bundles/factorio_2.0_Nullius.yafcbundle",
-   "bytes": 6591572
+   "id": "factorio_2.0.PyanodonsHardmode",
+   "name": "Factorio 2.0.Pyanodonshardmode",
+   "file": "bundles/factorio_2.0.PyanodonsHardmode.yafcbundle",
+   "bytes": 14768250
   },
   {
-   "id": "factorio_2.0_Pyanodons_Alien_Life",
-   "name": "Factorio 2.0 Pyanodons Alien Life",
-   "file": "bundles/factorio_2.0_Pyanodons_Alien_Life.yafcbundle",
-   "bytes": 16565283
+   "id": "factorio_2.0.PyanodonsHardmodeSpoilage",
+   "name": "Factorio 2.0.Pyanodonshardmodespoilage",
+   "file": "bundles/factorio_2.0.PyanodonsHardmodeSpoilage.yafcbundle",
+   "bytes": 14768250
   },
   {
-   "id": "factorio_2.0_Pyanodons_Alien_Life_Hard_Mode",
-   "name": "Factorio 2.0 Pyanodons Alien Life Hard Mode",
-   "file": "bundles/factorio_2.0_Pyanodons_Alien_Life_Hard_Mode.yafcbundle",
-   "bytes": 14768085
+   "id": "factorio_2.0.PyanodonsSpoilage",
+   "name": "Factorio 2.0.Pyanodonsspoilage",
+   "file": "bundles/factorio_2.0.PyanodonsSpoilage.yafcbundle",
+   "bytes": 14887279
   },
   {
-   "id": "factorio_2.1",
-   "name": "Factorio 2.1",
-   "file": "bundles/factorio_2.1.yafcbundle",
-   "bytes": 6272109
+   "id": "factorio_2.1.SpaceAge",
+   "name": "Factorio 2.1.Spaceage",
+   "file": "bundles/factorio_2.1.SpaceAge.yafcbundle",
+   "bytes": 7777392
   },
   {
-   "id": "factorio_2.1_Krastorio_SpaceAge_Quality",
-   "name": "Factorio 2.1 Krastorio Spaceage Quality",
-   "file": "bundles/factorio_2.1_Krastorio_SpaceAge_Quality.yafcbundle",
-   "bytes": 9110961
-  },
-  {
-   "id": "factorio_2.1_SpaceAge_Quality",
-   "name": "Factorio 2.1 Spaceage Quality",
-   "file": "bundles/factorio_2.1_SpaceAge_Quality.yafcbundle",
-   "bytes": 7781534
+   "id": "factorio_2.1.Vanilla",
+   "name": "Factorio 2.1.Vanilla",
+   "file": "bundles/factorio_2.1.Vanilla.yafcbundle",
+   "bytes": 6229880
   }
  ]
 }
